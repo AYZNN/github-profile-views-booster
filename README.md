@@ -14,4 +14,4 @@ Lua script written in 30 seconds to boost your profile views on GitHub, enjoy!
 Simply Click on the views  button on your profile page, it will reditect you to an other page, just copy the link !
 ![image](https://user-images.githubusercontent.com/67419505/145443714-1d7c0786-6fa2-4c30-99f8-1443a501c20c.png)
 
-No Support provided !
+No Support provided ! Use at your own risks !
